@@ -1,5 +1,5 @@
 # BNC_MCX_adapter
-MCX adapter for Sampler, [DIO_BNC](https://github.com/sinara-hw/DIO_BNC/wiki), [BNC_IDC](https://github.com/sinara-hw/BNC_IDC/wiki)
+MCX adapter for [Sampler](https://github.com/sinara-hw/Sampler/wiki), [DIO_BNC](https://github.com/sinara-hw/DIO_BNC/wiki), [BNC_IDC](https://github.com/sinara-hw/BNC_IDC/wiki)
 
 ## Design Files
 
